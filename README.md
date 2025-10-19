@@ -8,7 +8,7 @@ Also it is possible to use onboard monitor without video or Navi module, On boar
 
 ## Documentation
 
-[TDA8376 Jungle Chip](https://github.com/mbt28/IBUS-TV-Modules-RGB-Input/blob/main/docs/TDA8376.PDF)
+[TDA8376 Jungle Chip Datasheet](https://github.com/mbt28/IBUS-TV-Modules-RGB-Input/blob/main/docs/TDA8376.PDF)
 
 
 ## Roadmap
