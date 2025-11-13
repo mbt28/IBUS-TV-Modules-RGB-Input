@@ -8,9 +8,9 @@ Video module has RGB inputs for navigation system It requires RGB analog signals
 Also it is possible to use onboard monitor without video or Navi module, On board monitor uses Sync on Green so simply tapping the sync generated from composite sync(0.3VPP logic level) to green will work.
 
 PCF8574(0x39) Configurations:
--0x17 for TV and AV
--0x0F for GT/OSD
--0x1F for NAV
+- 0x17 for TV and AV
+- 0x0F for GT/OSD
+- 0x1F for NAV
 
 
 ## Documentation
